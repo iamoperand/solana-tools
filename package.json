@@ -1,0 +1,11 @@
+{
+  "name": "tools",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "author": "iamoperand",
+  "dependencies": {
+    "bs58": "^5.0.0",
+    "command-line-args": "^5.2.1"
+  }
+}
